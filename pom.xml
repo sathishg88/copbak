@@ -15,4 +15,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <scm>
+    <connection>scm:svn:http://localhost/svn/project1/trunk/consumerBanking/</connection>
+    <developerConnection>scm:svn:http://localhost/svn/project1/trunk/consumerBanking/</developerConnection>
+    <url>http://localhost/svn/project1/trunk/consumerBanking/</url>
+  </scm>
 </project>
