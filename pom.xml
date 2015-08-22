@@ -3,7 +3,7 @@
   <groupId>com.companyname.bank</groupId>
   <artifactId>consumerBanking</artifactId>
   <packaging>jar</packaging>
-  <version>1.4</version>
+  <version>1.5-SNAPSHOT</version>
   <name>consumerBanking</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -17,9 +17,9 @@
   </dependencies>
   
   <scm>
-    <connection>scm:svn:http://localhost/svn/project1/tags/REconsumerBanking-1.4</connection>
-    <developerConnection>scm:svn:http://localhost/svn/project1/tags/REconsumerBanking-1.4</developerConnection>
-    <url>http://localhost/svn/project1/tags/REconsumerBanking-1.4</url>
+    <connection>scm:svn:http://localhost/svn/project1/trunk/consumerBanking/</connection>
+    <developerConnection>scm:svn:http://localhost/svn/project1/trunk/consumerBanking/</developerConnection>
+    <url>http://localhost/svn/project1/trunk/consumerBanking/</url>
   </scm>
   
  <distributionManagement>
